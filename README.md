@@ -1,8 +1,15 @@
-# React + Vite
+# Todo List using Context API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This Todo App has following features:
 
-Currently, two official plugins are available:
+![Todo with Context API](./src/assets/Todo_App.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create and Add New Todo
+
+- Read and Show Todos List
+
+- Update Existing Todo
+
+- Delete the Todo
+
+
